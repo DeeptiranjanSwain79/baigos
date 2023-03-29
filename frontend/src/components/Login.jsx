@@ -18,7 +18,7 @@ const Login = () => {
 
     useEffect(() => {
         if (error) {
-            // alert.error(error);
+            window.alert(error);
             console.log(error);
             dispatch(clearErrors());
         }

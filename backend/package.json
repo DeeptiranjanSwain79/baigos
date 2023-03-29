@@ -7,7 +7,8 @@
 		"jsonwebtoken": "^9.0.0",
 		"mongoose": "^7.0.2",
 		"nodemon": "^2.0.21",
-		"validator": "^13.9.0"
+		"validator": "^13.9.0",
+		"webpack": "^5.77.0"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
